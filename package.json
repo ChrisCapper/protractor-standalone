@@ -1,0 +1,27 @@
+{
+  "name": "protractor-standalone",
+  "version": "1.0.0",
+  "description": "protractor framework with no cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor ./test/protractor.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisCapper/protractor-standalone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisCapper/protractor-standalone/issues"
+  },
+  "homepage": "https://github.com/ChrisCapper/protractor-standalone#readme",
+  "devDependencies": {
+    "eslint-plugin-jasmine": "^2.10.1",
+    "jasmine": "^3.3.1",
+    "jasmine-data-provider": "^2.2.0",
+    "protractor": "^5.4.2",
+    "protractor-beautiful-reporter": "^1.2.7"
+  }
+}
