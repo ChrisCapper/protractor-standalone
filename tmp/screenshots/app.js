@@ -319,6 +319,78 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "006b0029-007b-006e-0045-009000f90003.png",
         "timestamp": 1551970293597,
         "duration": 2167
+    },
+    {
+        "description": "should create a productmeat|productTests",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "23b4404d09ebfe6ff167b3825dd622d1",
+        "instanceId": 12592,
+        "browser": {
+            "name": "chrome",
+            "version": "72.0.3626.121"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "00c3009e-000c-0024-0025-0091006a00fd.png",
+        "timestamp": 1551973120510,
+        "duration": 4042
+    },
+    {
+        "description": "should create a productvegetables|productTests",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "23b4404d09ebfe6ff167b3825dd622d1",
+        "instanceId": 12592,
+        "browser": {
+            "name": "chrome",
+            "version": "72.0.3626.121"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "006b00b4-00bd-000b-0006-008a00020027.png",
+        "timestamp": 1551973125329,
+        "duration": 2875
+    },
+    {
+        "description": "should create a productbread|productTests",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "23b4404d09ebfe6ff167b3825dd622d1",
+        "instanceId": 12592,
+        "browser": {
+            "name": "chrome",
+            "version": "72.0.3626.121"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "00470019-0083-00de-0069-0056007c00f1.png",
+        "timestamp": 1551973128549,
+        "duration": 2167
+    },
+    {
+        "description": "should create a productpasta|productTests",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "23b4404d09ebfe6ff167b3825dd622d1",
+        "instanceId": 12592,
+        "browser": {
+            "name": "chrome",
+            "version": "72.0.3626.121"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "00d00069-0089-001e-001d-00bb0062008e.png",
+        "timestamp": 1551973131022,
+        "duration": 2107
     }
 ];
 
